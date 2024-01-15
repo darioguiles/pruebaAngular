@@ -16,4 +16,8 @@ export class BodyComponent {
 mostrarOcultar(){
   this.mostrar = !this.mostrar;
 }
+
+borrarElemento(num:number){
+
+}
 }
